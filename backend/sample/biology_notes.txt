@@ -1,0 +1,23 @@
+Chapter 1, Section 1: Light reaction
+The light reaction takes place in the thylakoid membranes of the chloroplast. Chlorophyll absorbs light energy and uses it to split water molecules, releasing oxygen. The energy captured is stored in ATP and NADPH.
+
+Chapter 1, Section 2: Calvin cycle
+The Calvin cycle takes place in the stroma of the chloroplast and does not need light directly. It uses ATP and NADPH from the light reaction to fix carbon dioxide into glucose. The enzyme RuBisCO catalyses the first step of carbon fixation.
+
+Chapter 1, Section 3: Factors affecting photosynthesis
+The rate of photosynthesis depends on light intensity, carbon dioxide concentration and temperature. At low light the rate rises with intensity, but at high intensity another factor becomes limiting. Very high temperatures denature enzymes and slow the process.
+
+Chapter 2, Section 1: Glycolysis
+Glycolysis happens in the cytoplasm and breaks one glucose molecule into two pyruvate molecules. It produces a net gain of 2 ATP and 2 NADH. It does not require oxygen.
+
+Chapter 2, Section 2: Aerobic and anaerobic respiration
+Aerobic respiration uses oxygen and takes place mostly in the mitochondria, producing about 36 to 38 ATP per glucose. Anaerobic respiration happens without oxygen and yields only 2 ATP. In muscles it produces lactic acid, and in yeast it produces ethanol and carbon dioxide.
+
+Chapter 2, Section 3: ATP as the energy currency
+ATP stores energy in the bonds between its phosphate groups. When the last phosphate is removed, energy is released for cell activities such as muscle contraction and active transport. ATP is rebuilt from ADP and phosphate during respiration.
+
+Chapter 3, Section 1: Mitosis
+Mitosis produces two genetically identical daughter cells with the same chromosome number as the parent. Its stages are prophase, metaphase, anaphase and telophase. It is used for growth and for repair of tissues.
+
+Chapter 3, Section 2: Meiosis
+Meiosis produces four genetically different cells with half the chromosome number, which become gametes. It involves two divisions. Crossing over in the first division exchanges segments between homologous chromosomes and creates variation.

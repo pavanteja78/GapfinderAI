@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Public Sans", ui-sans-serif, system-ui, sans-serif;
+  --color-paper: #eef3f5;
+  --color-ink: #0e2a47;
+  --color-mute: #5b6f82;
+  --color-brand: #0b7a75;
+  --color-weak: #c8362d;
+  --color-medium: #c98a12;
+  --color-strong: #2e8b57;
+}
+
+body { background: var(--color-paper); color: var(--color-ink); font-family: var(--font-sans); }
+h1, h2, h3 { font-family: var(--font-display); letter-spacing: -0.01em; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
